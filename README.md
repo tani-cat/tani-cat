@@ -1,6 +1,8 @@
 # Skills
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/tani_cat/posts.svg)](http://qiita.com/tani_cat)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tani_cat/contributions.svg)](http://qiita.com/tani_cat)
+<p align="left">
+  <img src="https://qiita-badge.apiapi.app/s/tani_cat/posts.svg" />
+  <img src="https://qiita-badge.apiapi.app/s/tani_cat/contributions.svg" />
+</p>
 
 ## Confident
 <p align="left">
